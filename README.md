@@ -1,4 +1,4 @@
-# Check DOCSIS Provisioning
+# Check DOCSIS Provisioning for Nagios
 
 I had a lot of problems with our DHCP server so I had to check the system via Nagios. So I created the following perl scripts.
 
